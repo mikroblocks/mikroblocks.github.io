@@ -1,0 +1,6 @@
+MikroBlocks/
+│
+├── index.html   # Hauptdatei (HTML-Struktur)
+├── styles.css   # CSS für das Styling
+├── script.js    # JavaScript für die Funktionen
+└── README.md    # Beschreibung des Projekts
