@@ -1,7 +1,0 @@
-MikroBlocks/
-│
-├── index.html         # Die Hauptdatei für die App
-├── styles.css         # Datei für das Styling
-├── script.js          # Datei für die Logik und Interaktivität
-├── README.md          # Optional: Beschreibung des Projekts
-└── assets/            # Ordner für zusätzliche Dateien (z. B. gespeicherte Bilder)
